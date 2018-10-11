@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "810537573934",
+    "firebase_url": "https://attender3-36b75.firebaseio.com",
+    "project_id": "attender3-36b75",
+    "storage_bucket": "attender3-36b75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810537573934:android:3777b0bde7f7b920",
+        "android_client_info": {
+          "package_name": "s.sanket.com.attender3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810537573934-hd7bt68qejpagql0rbquc85oo053dlp5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "s.sanket.com.attender3",
+            "certificate_hash": "0ce000411fea60f82bd51c088c62f99ece9dbe0f"
+          }
+        },
+        {
+          "client_id": "810537573934-h5noq0i55i2crghaa676l5j8e7iem7qi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALeaemOF8A-kHJ5SRW1IeW0Sp3ZvCzYhM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810537573934-h5noq0i55i2crghaa676l5j8e7iem7qi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
